@@ -1,7 +1,7 @@
-set ai
-set si
+filetype indent on " Auto-indentation
+syntax on " Syntax coloring
 
-filetype plugin on
-set grepprg=grep\ -nH\ $*
+runtime ftplugin/man.vim
 
-let g:neocomplcache_enable_at_startup = 1
+" Plugin Pathogen, utilisé par Syntastic
+execute pathogen#infect()

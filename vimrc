@@ -1,3 +1,4 @@
+set ai
 filetype indent on " Auto-indentation
 syntax on " Syntax coloring
 

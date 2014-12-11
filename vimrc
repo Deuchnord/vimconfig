@@ -1,5 +1,5 @@
-set ai
 filetype indent on " Auto-indentation
+set ai
 syntax on " Syntax coloring
 
 runtime ftplugin/man.vim

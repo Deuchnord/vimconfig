@@ -6,3 +6,5 @@ runtime ftplugin/man.vim
 
 " Plugin Pathogen, utilisé par Syntastic
 execute pathogen#infect()
+
+set nu

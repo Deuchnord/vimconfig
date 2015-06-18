@@ -8,3 +8,4 @@ runtime ftplugin/man.vim
 execute pathogen#infect()
 
 set nu
+:se tw=80

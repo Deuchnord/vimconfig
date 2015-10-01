@@ -8,4 +8,6 @@ runtime ftplugin/man.vim
 execute pathogen#infect()
 
 set nu
-:se tw=80
+se tw=80
+
+colorscheme default

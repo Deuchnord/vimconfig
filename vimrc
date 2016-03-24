@@ -42,4 +42,4 @@ set tw=80 " Line can't be longer than 80 characters
 
 set hlsearch
 
-colorscheme default
+colorscheme desert

@@ -7,7 +7,7 @@ runtime ftplugin/man.vim
 
 " Plugin Pathogen, utilisé par Syntastic
 execute pathogen#infect()
-highlight SyntasticError guibg=#f20000
+highlight SyntasticError guibg=#ff0000
 
 set nu
 set tw=80

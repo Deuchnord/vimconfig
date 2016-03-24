@@ -35,7 +35,7 @@ runtime ftplugin/man.vim
 
 " Plugin Pathogen, used by Syntastic
 execute pathogen#infect()
-highlight SyntasticError guibg=#f20000
+highlight SyntasticError guibg=#ff0000
 
 set nu " lines numbers
 set tw=80 " Line can't be longer than 80 characters
